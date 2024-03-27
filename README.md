@@ -3,6 +3,7 @@ This is a website for playing the classic Simon Game! Test your memory and see h
 
 ## Features
 Classic Simon Game mechanics
+
 Responsive design for various devices
 (Optional: Add any other features you've implemented, like difficulty levels, scorekeeping, etc.)
 How to Play
